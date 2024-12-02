@@ -86,6 +86,7 @@ let madeSetting =`
 *┊* *♾️ HEART_REACT:* ➠ ${config.HEART_REACT} 
 *┊* *♾️ OWNER_REACT:* ➠ ${config.OWNER_REACT} 
 *┊* *♾️ BOT_NAME:* ➠ ${config.BOT_NAME}
+*┊* *♾️ READ_MESSAGE:* ➠ ${config.READ_MESSAGE}
 *╰┈───────────────•*
 *•────────────•⟢*
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²
