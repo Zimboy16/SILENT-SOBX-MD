@@ -124,6 +124,9 @@ let status = `
 *│  ◦* *_HOSTNAME:➠_*
 *│  ◦* ${os.hostname()}
 *│  ◦*
+*│  ◦* *_PLATFORM:➠_*
+*│  ◦* ${process.env.DYNO ? "Heroku" : "Localhost"}
+*│  ◦*
 *╰┈───────────────•*
 
 *•────────────•⟢*
